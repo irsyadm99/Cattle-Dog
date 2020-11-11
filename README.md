@@ -32,8 +32,8 @@ Di sebuah peternakan yang dimiliki seorang pengembala terdapat banyak hewan tern
 * Pada setiap level disediakan 3 nyawa anjing (jika 3 nyawa habis maka permainan di level itu selesai).
 
 ## Goals
-* Menang : Anjing menggiring semua hewan ternak untuk masuk ke masing-masing kandang tanpa tertangkap oleh serigala
-* Kalah	: Tiga nyawa anjing telah habis / anjing tertangkap tiga kali. 
+Menang : Anjing menggiring semua hewan ternak untuk masuk ke masing-masing kandang tanpa tertangkap oleh serigala  
+Kalah	: Tiga nyawa anjing telah habis / anjing tertangkap tiga kali. 
 
 ## List Asset
 * Tokoh
