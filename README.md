@@ -68,10 +68,10 @@ Kalah	: Tiga nyawa anjing telah habis / anjing tertangkap tiga kali
   + Masuk kandang
   + Sound menang dan kalah
 * Button
-  + Play
-  + Level
-  + Option
+  + New Game
+  + Continue
+  + Options
   + Back
-  + Main menu
+  + Main Menu
   + Restart
   + Home
