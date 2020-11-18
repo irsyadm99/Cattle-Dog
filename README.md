@@ -58,3 +58,20 @@ Kalah	: Tiga nyawa anjing telah habis / anjing tertangkap tiga kali
   + Pagar rumput
   + Rumput kecil
   + Pintu kayu halaman
+* Sound
+  + Intro game
+  + Klik button
+  + Backsound jalan cerita
+  + Backsound saat game
+  + Sound serigala, anjing, dan hewan ternak
+  + Kunyahan serigala
+  + Masuk kandang
+  + Sound menang dan kalah
+* Button
+  + Play
+  + Level
+  + Option
+  + Back
+  + Main menu
+  + Restart
+  + Home
