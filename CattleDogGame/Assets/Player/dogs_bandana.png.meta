@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 1dd2957470187d745939c1ca398bc7b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -993451161602404404
+    second: dogs_bandana_0
+  - first:
+      213: 8558727181944040719
+    second: dogs_bandana_1
+  - first:
+      213: 6698882711603451689
+    second: dogs_bandana_2
+  - first:
+      213: -8676563113601688348
+    second: dogs_bandana_3
+  - first:
+      213: -1305165904535309367
+    second: dogs_bandana_4
+  - first:
+      213: 2078248596566723613
+    second: dogs_bandana_5
+  - first:
+      213: -5382379254481735888
+    second: dogs_bandana_6
+  - first:
+      213: -1563301025984708825
+    second: dogs_bandana_7
+  - first:
+      213: -1960863686894951801
+    second: dogs_bandana_8
+  - first:
+      213: 3077610362870118662
+    second: dogs_bandana_9
+  - first:
+      213: 7996470090016662453
+    second: dogs_bandana_10
+  - first:
+      213: 2152864006097288431
+    second: dogs_bandana_11
+  - first:
+      213: -583112431105920283
+    second: dogs_bandana_12
+  - first:
+      213: -2881614132849240981
+    second: dogs_bandana_13
+  - first:
+      213: 7230600396650570576
+    second: dogs_bandana_14
+  - first:
+      213: -5887911176441008654
+    second: dogs_bandana_15
+  - first:
+      213: 7665682927969985360
+    second: dogs_bandana_16
+  - first:
+      213: 5133599042656898577
+    second: dogs_bandana_17
+  - first:
+      213: 5572964121488488079
+    second: dogs_bandana_18
+  - first:
+      213: -7166510025006291502
+    second: dogs_bandana_19
+  - first:
+      213: 557012473735510127
+    second: dogs_bandana_20
+  - first:
+      213: 4104436398544429472
+    second: dogs_bandana_21
+  - first:
+      213: 907713359250359840
+    second: dogs_bandana_22
+  - first:
+      213: -4326683178234755770
+    second: dogs_bandana_23
+  - first:
+      213: 7998375534075246678
+    second: dogs_bandana_24
+  - first:
+      213: 1057784550706460884
+    second: dogs_bandana_25
+  - first:
+      213: 6797460024547795098
+    second: dogs_bandana_26
+  - first:
+      213: 3749743096623903001
+    second: dogs_bandana_27
+  - first:
+      213: -9205203499274004723
+    second: dogs_bandana_28
+  - first:
+      213: -834677986787663933
+    second: dogs_bandana_29
+  - first:
+      213: -8138629446560281310
+    second: dogs_bandana_30
+  - first:
+      213: -2081155560118520489
+    second: dogs_bandana_31
+  - first:
+      213: -2893179188134471410
+    second: dogs_bandana_32
+  - first:
+      213: -1502655720153544029
+    second: dogs_bandana_33
+  - first:
+      213: -2270940022251264911
+    second: dogs_bandana_34
+  - first:
+      213: -3401789980632181145
+    second: dogs_bandana_35
+  - first:
+      213: -2417481185437609685
+    second: dogs_bandana_36
+  - first:
+      213: 1350070715040300555
+    second: dogs_bandana_37
+  - first:
+      213: 2436453119873269719
+    second: dogs_bandana_38
+  - first:
+      213: -5663638433249385683
+    second: dogs_bandana_39
+  - first:
+      213: 250681987400765178
+    second: dogs_bandana_40
+  - first:
+      213: -4280682106723836476
+    second: dogs_bandana_41
+  - first:
+      213: 533327541305390083
+    second: dogs_bandana_42
+  - first:
+      213: -1972506221839588877
+    second: dogs_bandana_43
+  - first:
+      213: -1387503392858117335
+    second: dogs_bandana_44
+  - first:
+      213: -7843555149452643728
+    second: dogs_bandana_45
+  - first:
+      213: 8702578825121282420
+    second: dogs_bandana_46
+  - first:
+      213: -1421947041385241804
+    second: dogs_bandana_47
+  - first:
+      213: -6447798906751302794
+    second: dogs_bandana_48
+  - first:
+      213: -7428327907882027405
+    second: dogs_bandana_49
+  - first:
+      213: 8235207795383561393
+    second: dogs_bandana_50
+  - first:
+      213: 7029264327594457915
+    second: dogs_bandana_51
+  - first:
+      213: -3235669347984256753
+    second: dogs_bandana_52
+  - first:
+      213: -4440028076797020236
+    second: dogs_bandana_53
+  - first:
+      213: -5502021793934039115
+    second: dogs_bandana_54
+  - first:
+      213: -264047338726114188
+    second: dogs_bandana_55
+  - first:
+      213: 3878879004878831085
+    second: dogs_bandana_56
+  - first:
+      213: -3080527681663304597
+    second: dogs_bandana_57
+  - first:
+      213: 6325560823890099917
+    second: dogs_bandana_58
+  - first:
+      213: 8952657943364550178
+    second: dogs_bandana_59
+  - first:
+      213: -8446335911915578691
+    second: dogs_bandana_60
+  - first:
+      213: 4719218558393931856
+    second: dogs_bandana_61
+  - first:
+      213: -1358678848258987324
+    second: dogs_bandana_62
+  - first:
+      213: 5458765885705124429
+    second: dogs_bandana_63
+  - first:
+      213: 4264209209335809297
+    second: dogs_bandana_64
+  - first:
+      213: 6525780831555822167
+    second: dogs_bandana_65
+  - first:
+      213: -2416406328057549989
+    second: dogs_bandana_66
+  - first:
+      213: 972421206343773586
+    second: dogs_bandana_67
+  - first:
+      213: -536759061632372538
+    second: dogs_bandana_68
+  - first:
+      213: -6431414197036550398
+    second: dogs_bandana_69
+  - first:
+      213: 7254397226756617605
+    second: dogs_bandana_70
+  - first:
+      213: 7674327044887746693
+    second: dogs_bandana_71
+  - first:
+      213: 7790968052340584903
+    second: dogs_bandana_72
+  - first:
+      213: -7615262446803282978
+    second: dogs_bandana_73
+  - first:
+      213: 4168877830009394358
+    second: dogs_bandana_74
+  - first:
+      213: 8056213703383365217
+    second: dogs_bandana_75
+  - first:
+      213: -3240333855985262072
+    second: dogs_bandana_76
+  - first:
+      213: 3834384015873452702
+    second: dogs_bandana_77
+  - first:
+      213: 7150334061450035451
+    second: dogs_bandana_78
+  - first:
+      213: -352830661212666286
+    second: dogs_bandana_79
+  - first:
+      213: 8275432413901860949
+    second: dogs_bandana_80
+  - first:
+      213: -8448962005035031523
+    second: dogs_bandana_81
+  - first:
+      213: 3660728831884456912
+    second: dogs_bandana_82
+  - first:
+      213: 2101385954987651793
+    second: dogs_bandana_83
+  - first:
+      213: 648668449756719398
+    second: dogs_bandana_84
+  - first:
+      213: -8988430335895687617
+    second: dogs_bandana_85
+  - first:
+      213: 4062402288859014559
+    second: dogs_bandana_86
+  - first:
+      213: -6155980742221819598
+    second: dogs_bandana_87
+  - first:
+      213: 7118610185226364783
+    second: dogs_bandana_88
+  - first:
+      213: 6604094902788290723
+    second: dogs_bandana_89
+  - first:
+      213: 3807976020382589984
+    second: dogs_bandana_90
+  - first:
+      213: 5930399111347784896
+    second: dogs_bandana_91
+  - first:
+      213: 3831582722024062073
+    second: dogs_bandana_92
+  - first:
+      213: 8558373875037869236
+    second: dogs_bandana_93
+  - first:
+      213: -1029968052186193016
+    second: dogs_bandana_94
+  - first:
+      213: 3066558941811083860
+    second: dogs_bandana_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dogs_bandana_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf4dfa9e6d8632f0800000000000000
+      internalID: -993451161602404404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2141a605b6c670800000000000000
+      internalID: 8558727181944040719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 336
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9271121855637fc50800000000000000
+      internalID: 6698882711603451689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec938e81d7a69780800000000000000
+      internalID: -8676563113601688348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b83f568e13ede0800000000000000
+      internalID: -1305165904535309367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 336
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4059661c67dc10800000000000000
+      internalID: 2078248596566723613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2f2ac592fd45b0800000000000000
+      internalID: -5382379254481735888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7d25eff90e4ae0800000000000000
+      internalID: -1563301025984708825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 336
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e9a9addc99c4e0800000000000000
+      internalID: -1960863686894951801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093fe3b15ed5ba20800000000000000
+      internalID: 3077610362870118662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3aa740e2b29fe60800000000000000
+      internalID: 7996470090016662453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 336
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec372d386280ed10800000000000000
+      internalID: 2152864006097288431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e231d7555e58e7f0800000000000000
+      internalID: -583112431105920283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6496cfa6337208d0800000000000000
+      internalID: -2881614132849240981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e72b50c0485460800000000000000
+      internalID: 7230600396650570576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd6e230bffe94ea0800000000000000
+      internalID: -5887911176441008654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0536d6a220af16a60800000000000000
+      internalID: 7665682927969985360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e89dc51253e3740800000000000000
+      internalID: 5133599042656898577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8671577755275d40800000000000000
+      internalID: 5572964121488488079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d569302a117b8c90800000000000000
+      internalID: -7166510025006291502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f687778c4e7eab700800000000000000
+      internalID: 557012473735510127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ac628823e5f830800000000000000
+      internalID: 4104436398544429472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268effad78d89c00800000000000000
+      internalID: 907713359250359840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645c8a9b29884f3c0800000000000000
+      internalID: -4326683178234755770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658fab8cb20fffe60800000000000000
+      internalID: 7998375534075246678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d831c9c1710eae00800000000000000
+      internalID: 1057784550706460884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90e61ab0ed655e50800000000000000
+      internalID: 6797460024547795098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911bd39ba73c90430800000000000000
+      internalID: 3749743096623903001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07179c403c804080800000000000000
+      internalID: -9205203499274004723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfdea71bc0aa64f0800000000000000
+      internalID: -834677986787663933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 240
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d8d3f73a7cd0f80800000000000000
+      internalID: -8138629446560281310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557ec46b004e13e0800000000000000
+      internalID: -2081155560118520489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0911bb6bdc59d7d0800000000000000
+      internalID: -2893179188134471410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 240
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa0a8c759e752be0800000000000000
+      internalID: -1502655720153544029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 240
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ee7be4100c70e0800000000000000
+      internalID: -2270940022251264911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7669feb390a6ac0d0800000000000000
+      internalID: -3401789980632181145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b211dc29ba1637ed0800000000000000
+      internalID: -2417481185437609685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 192
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e72af892a6cb210800000000000000
+      internalID: 1350070715040300555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df30f1243500d120800000000000000
+      internalID: 2436453119873269719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23abe92ad6b661b0800000000000000
+      internalID: -5663638433249385683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8c9a70f99a7300800000000000000
+      internalID: 250681987400765178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdda50dd46f794c0800000000000000
+      internalID: -4280682106723836476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304b078b292c66700800000000000000
+      internalID: 533327541305390083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 192
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e002ca0040a4e0800000000000000
+      internalID: -1972506221839588877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bea08f3099ebce0800000000000000
+      internalID: -1387503392858117335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07270b40628162390800000000000000
+      internalID: -7843555149452643728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 192
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b03d4555c5c870800000000000000
+      internalID: 8702578825121282420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 192
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433a0dc13ba344ce0800000000000000
+      internalID: -1421947041385241804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673cfe36e01d486a0800000000000000
+      internalID: -6447798906751302794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376329fef1749e890800000000000000
+      internalID: -7428327907882027405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6d5f9bd5594270800000000000000
+      internalID: 8235207795383561393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bb79ec9a6fc8160800000000000000
+      internalID: 7029264327594457915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0157ce0fd79813d0800000000000000
+      internalID: -3235669347984256753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 144
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b0c90df9d162c0800000000000000
+      internalID: -4440028076797020236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7aa125454e4a3b0800000000000000
+      internalID: -5502021793934039115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb75b285ae55cf0800000000000000
+      internalID: -264047338726114188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 144
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf58c57eb84d530800000000000000
+      internalID: 3878879004878831085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c73b51564cf35d0800000000000000
+      internalID: -3080527681663304597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_58
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceb8191e08e8c750800000000000000
+      internalID: 6325560823890099917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 144
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eb2dd57fa3e3c70800000000000000
+      internalID: 8952657943364550178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba95ac1d3698ca80800000000000000
+      internalID: -8446335911915578691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058508e76480e7140800000000000000
+      internalID: 4719218558393931856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caafad39c0052de0800000000000000
+      internalID: -1358678848258987324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7979b6ae61cb40800000000000000
+      internalID: 5458765885705124429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150962eea38d2b30800000000000000
+      internalID: 4264209209335809297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75220fa571b309a50800000000000000
+      internalID: 6525780831555822167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5baf1f4f33377ed0800000000000000
+      internalID: -2416406328057549989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6d206febbe7d00800000000000000
+      internalID: 972421206343773586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c03e613a7c0d88f0800000000000000
+      internalID: -536759061632372538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077b36ecd60fb6a0800000000000000
+      internalID: -6431414197036550398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 96
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5853860a7dbcca460800000000000000
+      internalID: 7254397226756617605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58815b879cfa08a60800000000000000
+      internalID: 7674327044887746693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17d205a241f1c60800000000000000
+      internalID: 7790968052340584903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31beae627215690800000000000000
+      internalID: -7615262446803282978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b416b97c44dad930800000000000000
+      internalID: 4168877830009394358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166bcc8fdab6dcf60800000000000000
+      internalID: 8056213703383365217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802a358a6850803d0800000000000000
+      internalID: -3240333855985262072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa29e62f7763530800000000000000
+      internalID: 3834384015873452702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf00b1ed1f61b3360800000000000000
+      internalID: 7150334061450035451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2568d8c026e7a1bf0800000000000000
+      internalID: -352830661212666286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550bf517fed38d270800000000000000
+      internalID: 8275432413901860949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146d1922d14fba80800000000000000
+      internalID: -8448962005035031523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 48
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f08b2a758dc230800000000000000
+      internalID: 3660728831884456912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2b807746f992d10800000000000000
+      internalID: 2101385954987651793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a0cca488800900800000000000000
+      internalID: 648668449756719398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea7947b3ea24380800000000000000
+      internalID: -8988430335895687617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ec22bb5d806830800000000000000
+      internalID: 4062402288859014559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23119b77120919aa0800000000000000
+      internalID: -6155980742221819598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6725e85f326ac260800000000000000
+      internalID: 7118610185226364783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_89
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8f9a7f25576ab50800000000000000
+      internalID: 6604094902788290723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_90
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0242c18d306a8d430800000000000000
+      internalID: 3807976020382589984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4d2832920d4250800000000000000
+      internalID: 5930399111347784896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_92
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb4c16f248c2530800000000000000
+      internalID: 3831582722024062073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_93
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49d94f1b375c670800000000000000
+      internalID: 8558373875037869236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_94
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e0777381d4b1f0800000000000000
+      internalID: -1029968052186193016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogs_bandana_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a82793c1b9e8a20800000000000000
+      internalID: 3066558941811083860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
