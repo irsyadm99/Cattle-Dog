@@ -20,23 +20,20 @@
 |	Irsyad Musyaffa | Game Programmer |
 
 ## Story Game
-Di sebuah peternakan yang dimiliki seorang pengembala terdapat banyak hewan ternak. Setiap sore, ia harus menggiring hewan ternaknya agar masuk ke kandang. Pengembala dibantu oleh anjing peliharaannya. Namun, ada serigala yang suka memangsa hewan-hewan ternak di daerah pedesaannya. Anjing harus menggiring hewan ternaknya dan menghindari serigala agar hewan ternak sampai ke masing-masing kandangnya dengan selamat.
+Di sebuah peternakan yang dimiliki seorang pengembala terdapat banyak hewan ternak. Setiap sore, ia harus menyelamatkan dan menggiring hewan ternaknya agar masuk ke kandang. Pengembala dibantu oleh anjing peliharaannya. Namun, ada serigala yang suka memangsa hewan-hewan ternak di daerah pedesaan. Anjing harus menyelamatkan hewan ternaknya dan menghindari serigala secepat mungkin sebelum di tangkap oleh serigala.
 
 ## Rules
-* Anjing bertugas menghampiri semua hewan ternak untuk menggiringnya ke dalam kandang.
+* Anjing bertugas menghampiri semua hewan ternak yang muncul untuk menyelamatkan sebelum diterkam oleh serigala.
 * Anjing akan mati jika tertangkap oleh serigala.
-* Serigala menangkap hewan ternak yang telah mengikuti anjing, serta anjingnya.
-* Hewan ternak seperti domba, ayam, dan bebek akan mengikuti anjing jika telah dihampiri oleh anjing dan hewan ternak akan mati di tempat jika tertangkap oleh serigala.
-* Hewan ternak yang belum dihampiri oleh anjing tidak akan mati oleh serigala.
+* Serigala akan menangkap dan menerkam hewan ternak yang muncul.
+* Hewan ternak (domba) akan menghilang jika telah diselamatkan oleh anjing dan skor akan akan bertambah.
 * Avatar anjing bisa dipilih, setiap avatar memiliki kemampuan yang berbeda-beda.
 * Jika ada hewan ternak yang mati karena tertangkap serigala, jumlah score akan berkurang.
-* Permainan setiap level akan selesai dan menang, jika semua hewan ternak yang masih hidup telah dimasukkan ke kandang.
-* Pada setiap level disediakan 3 nyawa anjing, jika 3 nyawa anjing habis maka permainan pada level itu selesai dan kalah.
-* Jika kalah, level kembali ke awal.
-* Level permainan akan meningkat dan peta halaman ternak semakin banyak rintangan serta serigala semakin banyak.
+* Permainan setiap level akan selesai dan menang, jika.................
+* Pada setiap level disediakan 3 nyawa anjing, jika 3 nyawa anjing habis maka permainan pada level itu selesai dan pemain kalah.
 
 ## Goals
-Menang : Anjing menggiring semua hewan ternak untuk masuk ke masing-masing kandang tanpa tertangkap oleh serigala  
+Menang : Anjing menghampiri semua hewan untuk menyelamatkan sebelum diterkam oleh serigala dalam waktu ...........
 Kalah	: Tiga nyawa anjing telah habis / anjing tertangkap tiga kali
 
 ## List Asset
@@ -44,8 +41,6 @@ Kalah	: Tiga nyawa anjing telah habis / anjing tertangkap tiga kali
   + Anjing
   + Serigala
   + Domba
-  + Ayam
-  + Bebek
 * Kandang
   + Kandang domba
   + Kandang ayam
