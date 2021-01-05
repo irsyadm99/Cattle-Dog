@@ -4,7 +4,7 @@
 
 **Kelompok : 11**   
   
-## Our Team
+**Pembagian Role :**
 | Nama | NIM | Role |
 | ---- | --- | ---- |
 | Ulfainil Aisyah | G64180045 | Game Designer |
@@ -13,9 +13,10 @@
 
 ---  
 
-<p align="left"><img src="Documents/cattledog-icon.png" width="200" height="200"></p>
+<p align="center"><img src="Documents/cattledog-icon.png" width="200" height="200"></p>
 
-**Link Game Cattledog** : [cattledog.rar](https://ipb.link/cattledog-game)
+<p align="center"><b>Link Game Cattledog</b></p>
+<p align="center"><a href="https://ipb.link/cattledog-game">cattledog.rar</a></p>
 
 ## Story Game
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,34 +34,34 @@ Oleh karena itu, pengembala domba meminta bantuan kepada anjing peliharaannya ya
 * Sekali permainan akan disediakan 3 nyawa untuk Ace, jika 3 nyawa Ace habis maka permainan selesai dan pemain kalah.
 
 ## Goals
-Menang : Ace menangkap semua domba sebanyak-banyaknya hingga mencapai skor tertinggi.
-Kalah	: Tiga nyawa yang dimiliki Ace telah habis.
+**Menang** : Ace menangkap semua domba sebanyak-banyaknya hingga mencapai skor tertinggi.  
+**Kalah**	: Tiga nyawa yang dimiliki Ace telah habis.
 
 ## Assets List
-* Main Menu
+* **Main Menu**
   + Background
   + Judul : Cattledog
   + Button : Start
-* Story
+* **Story Game**
   + Background : Desa, Peternakan, Halaman
   + Tokoh story : Serigala gila, Pengembala domba, Ace
   + Bubble talk
   + Button : Next, Go
-* Game Play
+* **Game Play**
   + Karakter : Ace, Serigala gila, Domba
   + Obstacle : Batu, Jamur, Tanaman
   + Terrain : Tanah, Rumput, Kolam
   + Heart
   + Score 
-* Game Over Panel
+* **Game Over Panel**
   + Background transparent
   + Judul : Game Over
   + Button : Replay, Exit
   + Your score
-* Font
+* **Font**
   + Pixellari
   + VCR OSD Mono
-* Music
+* **Music**
   + Home theme
   + Story theme
   + Game theme
@@ -68,6 +69,7 @@ Kalah	: Tiga nyawa yang dimiliki Ace telah habis.
   + Score added
   + Lose life
   + Game over
+* **Assets Source**  
 
 | Assets | Source |
 | ------ | ------ |
@@ -95,17 +97,17 @@ Kalah	: Tiga nyawa yang dimiliki Ace telah habis.
 | Algoritme | Pathfinder A* |
 
 ## Screenshot
-<ul><li>Main Menu</li></ul>
+<ul><li><b>Main Menu</b></li></ul>
 <p><img src="Documents/home-screen.png" width="720" height="405"></p>
 
-<ul><li>Story Game</li></ul>
+<ul><li><b>Story Game</li></b></ul>
 <p><img src="Documents/story-1.png" width="720" height="405"></p>
 <p><img src="Documents/story-2.png" width="720" height="405"></p>
 <p><img src="Documents/story-3.png" width="720" height="405"></p>
 <p><img src="Documents/story-4.png" width="720" height="405"></p>
 
-<ul><li>Game Play</li></ul>
+<ul><li><b>Game Play</li></b></ul>
 <p><img src="Documents/game-play.png" width="720" height="405"></p>
 
-<ul><li>Game Over Panel</li></ul>
+<ul><li><b>Game Over Panel</b></li></ul>
 <p><img src="Documents/game-over.png" width="720" height="405"></p>
