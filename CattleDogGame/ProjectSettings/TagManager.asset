@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - animal
+  - enemy
+  - Story
   layers:
   - Default
   - TransparentFX
@@ -13,13 +16,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - player
+  - animal
+  - Tilemap
+  - Background
+  - life
+  - Button
+  - Text Button
   - 
   - 
   - 
@@ -40,4 +43,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3460268803
+    locked: 0
+  - name: animal
+    uniqueID: 3578373259
+    locked: 0
+  - name: player
+    uniqueID: 823083263
+    locked: 0
+  - name: enemy
+    uniqueID: 1736661963
+    locked: 0
+  - name: logo
+    uniqueID: 2130508357
+    locked: 0
+  - name: button
+    uniqueID: 2901617743
+    locked: 0
+  - name: Panel
+    uniqueID: 3220209253
     locked: 0
