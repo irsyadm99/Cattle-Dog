@@ -1,72 +1,111 @@
 # Cattledog
 
-**Paralel : 1**  
+**Paralel : P1 (Rabu)**  
 
 **Kelompok : 11**   
   
-**Nama Anggota :**
-1. Ulfainil Aisyah              (G64180045)
-2. Irsyad Musyaffa              (G64180048)
-3. Putri Melanita Londong Bua	  (G64180053)
+## Our Team
+| Nama | NIM | Role |
+| ---- | --- | ---- |
+| Ulfainil Aisyah | G64180045 | Game Designer |
+|	Irsyad Musyaffa | G64180048 | Game Programmer |
+|	Putri Melanita Londong Bua | G64180053 | Game Artist |  
 
----
+---  
 
-## Pembagian Role
+<p align="left"><img src="Documents/cattledog-icon.png" width="200" height="200"></p>
 
-| Nama | Role |
-| ---- | ---- |
-| Ulfainil Aisyah | Game Designer |
-|	Putri Melanita Londong Bua | Game Artist |
-|	Irsyad Musyaffa | Game Programmer |
+**Link Game Cattledog** : [cattledog.rar](https://ipb.link/cattledog-game)
 
 ## Story Game
-Di sebuah peternakan yang dimiliki seorang pengembala terdapat banyak hewan ternak. Setiap sore, ia harus menyelamatkan dan menggiring hewan ternaknya agar masuk ke kandang. Pengembala dibantu oleh anjing peliharaannya. Namun, ada serigala yang suka memangsa hewan-hewan ternak di daerah pedesaan. Anjing harus menyelamatkan hewan ternaknya dan menghindari serigala secepat mungkin sebelum di tangkap oleh serigala.
+&nbsp;&nbsp;&nbsp;&nbsp;
+Sejak bulan lalu, ada sebuah desa yang selalu diganggu oleh seekor serigala gila setiap sore harinya. Semua warga desa sangat khawatir akan terkena serangan dari serigala gila tersebut. Sehingga, warga desa selalu berdiam diri di rumah untuk berlindung pada sore hari.  
+&nbsp;&nbsp;&nbsp;&nbsp;
+Di desa tersebut, ada seorang pengembala yang memiliki peternakan domba yang besar. Setiap sore, pengembala domba harus menangkap domba-dombanya untuk dibawa ke kandang setelah mencari makan di padang rumput. Tetapi, ia takut keluar rumah karena khawatir diserang oleh serigala gila.  
+&nbsp;&nbsp;&nbsp;&nbsp;
+Oleh karena itu, pengembala domba meminta bantuan kepada anjing peliharaannya yang bernama “Ace” agar dapat menangkap domba-dombanya untuk dibawa ke kandang dan menghindari serangan dari serigala gila.
 
 ## Rules
-* Anjing bertugas menghampiri semua hewan ternak yang muncul untuk menyelamatkan sebelum diterkam oleh serigala.
-* Anjing akan mati jika tertangkap oleh serigala.
-* Serigala akan menangkap dan menerkam hewan ternak yang muncul.
-* Hewan ternak (domba) akan menghilang jika telah diselamatkan oleh anjing dan skor akan akan bertambah.
-* Avatar anjing bisa dipilih, setiap avatar memiliki kemampuan yang berbeda-beda.
-* Jika ada hewan ternak yang mati karena tertangkap serigala, jumlah score akan berkurang.
-* Permainan setiap level akan selesai dan menang, jika.................
-* Pada setiap level disediakan 3 nyawa anjing, jika 3 nyawa anjing habis maka permainan pada level itu selesai dan pemain kalah.
+* Ace bertugas untuk menangkap semua domba yang muncul untuk diselamatkan sebelum diserang oleh serigala gila.
+* Ace akan mati jika diserang oleh serigala gila.
+* Serigala gila akan menyerang Ace dan domba-domba yang muncul.
+* Domba akan menghilang jika telah ditangkap oleh Ace dan skor akan akan bertambah.
+* Sekali permainan akan disediakan 3 nyawa untuk Ace, jika 3 nyawa Ace habis maka permainan selesai dan pemain kalah.
 
 ## Goals
-Menang : Anjing menghampiri semua hewan untuk menyelamatkan sebelum diterkam oleh serigala dalam waktu ...........
-Kalah	: Tiga nyawa anjing telah habis / anjing tertangkap tiga kali
+Menang : Ace menangkap semua domba sebanyak-banyaknya hingga mencapai skor tertinggi.
+Kalah	: Tiga nyawa yang dimiliki Ace telah habis.
 
-## List Asset
-* Tokoh
-  + Anjing
-  + Serigala
-  + Domba
-* Kandang
-  + Kandang domba
-  + Kandang ayam
-  + Kandang bebek
-* Rintangan
-  + Pohon kecil
-  + Jerami
-  + Genangan air
-* Halaman ternak
-  + Pagar rumput
-  + Rumput kecil
-  + Pintu kayu halaman
-* Sound
-  + Intro game
-  + Klik button
-  + Backsound jalan cerita
-  + Backsound saat game
-  + Sound serigala, anjing, dan hewan ternak
-  + Kunyahan serigala
-  + Masuk kandang
-  + Sound menang dan kalah
-* Button
-  + New Game
-  + Continue
-  + Options
-  + Back
-  + Main Menu
-  + Restart
-  + Home
+## Assets List
+* Main Menu
+  + Background
+  + Judul : Cattledog
+  + Button : Start
+* Story
+  + Background : Desa, Peternakan, Halaman
+  + Tokoh story : Serigala gila, Pengembala domba, Ace
+  + Bubble talk
+  + Button : Next, Go
+* Game Play
+  + Karakter : Ace, Serigala gila, Domba
+  + Obstacle : Batu, Jamur, Tanaman
+  + Terrain : Tanah, Rumput, Kolam
+  + Heart
+  + Score 
+* Game Over Panel
+  + Background transparent
+  + Judul : Game Over
+  + Button : Replay, Exit
+  + Your score
+* Font
+  + Pixellari
+  + VCR OSD Mono
+* Music
+  + Home theme
+  + Story theme
+  + Game theme
+  + Button click
+  + Score added
+  + Lose life
+  + Game over
+
+| Assets | Source |
+| ------ | ------ |
+| General | [assetstore.unity.com](https://assetstore.unity.com/) |
+|	Animal Character | [rpgtileset.com/sprite](https://rpgtileset.com/sprite) |
+|	Farmer | [webstockreview.net/images250_/farmers-clipart.png](https://webstockreview.net/images250_/farmers-clipart.png) |
+| Dog Character (Story) | [www.pngkey.com/png/full/1-18550_free-cartoon-dog-vector-clip-art-dog-clipart.png](https://www.pngkey.com/png/full/1-18550_free-cartoon-dog-vector-clip-art-dog-clipart.png) |
+|	Story Background | <li>[storyweaver.org.in/illustrations/41705-green-village](https://storyweaver.org.in/illustrations/41705-green-village)</li><li>[clipartspub.com/images/clipart-farming-background-farmyard-5.jpg](https://clipartspub.com/images/clipart-farming-background-farmyard-5.jpg)</li> |
+|	Landing Page Background | [wallhere.com/en/tag/2378](https://wallhere.com/en/tag/2378) |
+| Terrain | [opengameart.org/sites/default/files/terrain_2.png](https://opengameart.org/sites/default/files/terrain_2.png) |
+|	Start Board | [i.pinimg.com/originals/9b/0b/72/9b0b72e40b416275841ad74994964015.png](https://i.pinimg.com/originals/9b/0b/72/9b0b72e40b416275841ad74994964015.png) |
+|	Music | <li>[soundcloud.com/sdsoundtracks/fun-games](https://soundcloud.com/sdsoundtracks/fun-games)</li><li>[www.zapsplat.com/](https://www.zapsplat.com/)</li> |
+
+## Tools and Technology
+| Tools and Technology | Keterangan |
+| -------------------- | ---------- |
+| Unity Hub 2.4.2 | Untuk mengatur instalasi Unity, manajemen project, dan kolaborasi |
+| Unity version 2019.4.13f1 (LTS) | Untuk mengembangkan game dan mengolah asset |
+| GitHub | Untuk menyimpan repository dan kolaborasi |
+| Visual Studio Code | Sebagai code editor untuk script game |
+| C# | Bahasa pemrograman untuk script game |
+| Figma | Untuk membuat assets |
+| Hukum Fisika | Rigid Body 2D, Object Collider |
+| Transformasi | Translasi |
+| Algoritme | Pathfinder A* |
+
+## Screenshot
+<ul><li>Main Menu</li></ul>
+<p><img src="Documents/home-screen.png" width="720" height="405"></p>
+
+<ul><li>Story Game</li></ul>
+<p><img src="Documents/story-1.png" width="720" height="405"></p>
+<p><img src="Documents/story-2.png" width="720" height="405"></p>
+<p><img src="Documents/story-3.png" width="720" height="405"></p>
+<p><img src="Documents/story-4.png" width="720" height="405"></p>
+
+<ul><li>Game Play</li></ul>
+<p><img src="Documents/game-play.png" width="720" height="405"></p>
+
+<ul><li>Game Over Panel</li></ul>
+<p><img src="Documents/game-over.png" width="720" height="405"></p>
